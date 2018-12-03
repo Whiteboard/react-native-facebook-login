@@ -250,7 +250,11 @@ open example/toy.xcodeproj
 ```
 
 ## Contact
+<<<<<<< HEAD
 [Twitter - @imnmj](http://twitter.com/imnmj)
+=======
+[Twitter - @magusnn](http://twitter.com/magusnn)
+>>>>>>> 47112aad49c16eb9d00ff9551154f11ff968b370
 [iamnoah.com](http://iamnoah.com)
 
 ## todo
